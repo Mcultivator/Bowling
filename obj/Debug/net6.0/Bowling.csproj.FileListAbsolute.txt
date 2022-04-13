@@ -1,0 +1,15 @@
+C:\Users\Yuri\Desktop\Bowling\bin\Debug\net6.0\Bowling.exe
+C:\Users\Yuri\Desktop\Bowling\bin\Debug\net6.0\Bowling.deps.json
+C:\Users\Yuri\Desktop\Bowling\bin\Debug\net6.0\Bowling.runtimeconfig.json
+C:\Users\Yuri\Desktop\Bowling\bin\Debug\net6.0\Bowling.dll
+C:\Users\Yuri\Desktop\Bowling\bin\Debug\net6.0\Bowling.pdb
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.csproj.AssemblyReference.cache
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.dll
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\refint\Bowling.dll
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.pdb
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\Bowling.genruntimeconfig.cache
+C:\Users\Yuri\Desktop\Bowling\obj\Debug\net6.0\ref\Bowling.dll
